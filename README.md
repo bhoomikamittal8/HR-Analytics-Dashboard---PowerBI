@@ -45,7 +45,7 @@ The primary data source for this dashboard is the `HR_Analytics.csv` file, which
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/HR-Analytics-Dashboard.git
+    git clone https://github.com/bhoomikamittal8/HR_Analytics_Dashboard.git
     ```
 2. Ensure you have Power BI Desktop installed on your machine. You can download it from [here](https://powerbi.microsoft.com/desktop/).
 
